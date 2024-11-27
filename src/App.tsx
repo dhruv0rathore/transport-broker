@@ -76,16 +76,16 @@ function App() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>support@truckease.com</li>
-                <li>+1 (555) 123-4567</li>
+                <li>thetruckease@gmail.com</li>
+                <li>+91 6207889126</li>
               </ul>
             </div>
             <div>
               <h4 className="text-lg font-semibold mb-4">Follow Us</h4>
               <div className="flex space-x-4">
                 <a href="#" className="text-gray-400 hover:text-white">LinkedIn</a>
-                <a href="#" className="text-gray-400 hover:text-white">Twitter</a>
-                <a href="#" className="text-gray-400 hover:text-white">Facebook</a>
+                <a href="https://www.instagram.com/truck.ease?igsh=eDEybGlzbjF4MTlp&utm_source=qr" className="text-gray-400 hover:text-white">Instagram</a>
+              
               </div>
             </div>
           </div>
