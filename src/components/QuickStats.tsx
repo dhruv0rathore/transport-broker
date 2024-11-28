@@ -5,31 +5,31 @@ export default function QuickStats() {
   const stats = [
     {
       title: "Active Shipments",
-      value: "24",
+      value: "0",
       icon: Truck,
       color: "text-blue-600",
-      trend: "+12% from last month"
+      trend: "0% from last month"
     },
     {
       title: "On-Time Delivery",
-      value: "98%",
+      value: "0%",
       icon: Clock,
       color: "text-green-600",
-      trend: "+2% from last month"
+      trend: "0% from last month"
     },
     {
       title: "Cost Savings",
-      value: "$12.5k",
+      value: "Rs 0",
       icon: TrendingUp,
       color: "text-purple-600",
-      trend: "+8% from last month"
+      trend: "0% from last month"
     },
     {
       title: "Carrier Rating",
-      value: "4.8",
+      value: "0",
       icon: ThumbsUp,
       color: "text-yellow-600",
-      trend: "+0.2 from last month"
+      trend: "0 from last month"
     }
   ];
 
